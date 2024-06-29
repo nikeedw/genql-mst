@@ -1,0 +1,18 @@
+{
+    "compilerOptions": {
+        "baseUrl": ".",
+        "paths": {
+            "@/*": ["src/*"],
+            // "@packages/*": ["packages/*"],
+            // "@backendService": ["src/backendService"],
+            // "@EnvConfigs":["configs/EnvConfigs"],
+            // "@modules/*":["src/modules/*"],
+            // "@rootContextProvider": ["src/root-store-context-provider"],
+            // "@graphql/*":["src/graphql/*"],
+            // "@helpers/*":["src/helpers/*"],
+            // "@routes/*":["src/routes/*"],
+            // "@components/*":["src/components/*"],
+            // "@mst/*":["src/mst/*"],
+        }
+    }
+}
